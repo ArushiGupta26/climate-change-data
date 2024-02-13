@@ -87,4 +87,5 @@ Hockeystick (R package) | [LINK](https://cortinah.github.io/hockeystick/) | vari
 |  NOAA Climate.gov data | [LINK](https://www.climate.gov/maps-data/data-snapshots "LINK") | various | A range of environmental datasets (weather, air & sea temperature) mainly for the US |
 |  Our World in Data | [LINK](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions "LINK") | CO2 emissions | Interactive data visualisation with an option to download the undelying data |
 |  What a technologist can do about Climate Change? | [LINK](http://worrydream.com/ClimateChange/ "LINK") | various | A blog post showing data visualisations and analyses on climate change issues - each analysis gives a reference to the data used. |
-|  World Bank Climate Change Data | [LINK](https://datacatalog.worldbank.org/dataset/climate-change-data "LINK") | various | Data from World Development Indicators and Climate Change Knowledge Portal on climate systems, exposure to climate impacts, resilience, greenhouse gas emissions, and energy use. |
+|  World Bank Climate Change Data | [LINK](https://datacatalog.worldbank.org/dataset/climate-change-data "LINK") | various | Data from World Development Indicators and Climate Change Knowledge Portal on climate systems, exposure to climate impacts, resilience, greenhouse gas emissions, and energy use. | This repo is cool
+
